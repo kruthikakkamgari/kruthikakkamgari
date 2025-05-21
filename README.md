@@ -1,73 +1,75 @@
-<!-- HEADER BANNER -->
+<!-- Header Typing Effect -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=Hi+%F0%9F%91%8B%2C+I'm+Kruthika+Akkamgari;Aspiring+AI+Developer+%F0%9F%A7%A0;Passionate+about+Tech+%F0%9F%92%BB;Let's+build+something+amazing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Kruthika+Akkamgari+%F0%9F%91%8B;AI+Explorer+%7C+Web+Developer+%F0%9F%A7%A0;Design+Lover+%7C+Tech+Enthusiast+%F0%9F%92%BB" alt="Typing SVG" />
 </div>
 
 ---
 
-# 👩‍💻 Kruthika Akkamgari
+<h2 align="center">✨ About Me</h2>
 
-**Final-Year Computer Science Student** | Sridevi Women’s Engineering College, Hyderabad  
-**AI Enthusiast | Web Developer | UI Minimalist**
+Hi, I'm **Kruthika Akkamgari**, a final-year Computer Science student from  
+🎓 *Sridevi Women’s Engineering College, Hyderabad*.
 
-> Bridging logic and creativity through clean code and thoughtful design.  
-> Passionate about **Artificial Intelligence**, **Modern Web Interfaces**, and **Real-World Problem Solving**.
-
----
-
-## 💼 Tech Stack
-
-| Languages       | Web Development        | AI / ML Tools          | Databases       |
-|-----------------|------------------------|-------------------------|-----------------|
-| Python 🐍        | HTML5, CSS3, Bootstrap | OpenAI, NLP, ML Basics 🤖 | SQL 🗃️           |
+I'm driven by a passion for blending **code** with **creativity**, crafting digital experiences that are not just functional but elegant.  
+Focused areas: **AI**, **Web Development**, and **Human-Centered Design**.
 
 ---
 
-## 🚀 Highlight Projects
+<h2 align="center">🧰 Tech Toolbox</h2>
 
-### 🧠 [Amazon Review Analyzer](https://github.com/Kruthikakkamgari/Amazon-Sentiment-analysis)
-AI/NLP-based tool that pulls product reviews from Amazon, translates multilingual feedback, and visualizes sentiments with word clouds.
-
-### 💄 Glamour Heaven
-A sleek, intuitive e-commerce beauty store focusing on minimalist design and smart product suggestions.
-
-### 🎬 Netflix Clone
-Built with React.js + Node.js. Responsive streaming UI closely modeled after Netflix for immersive user experience.
-
-### ☁️ Weather Forecast App
-Live weather updates with 7-day forecasts, wind speeds, and humidity via real-time API integration.
+- **Languages:** Python 🐍, SQL  
+- **Web:** HTML5, CSS3, Bootstrap 🎨  
+- **AI/ML:** OpenAI, NLP, ML Basics 🤖  
+- **Tools:** Git, VSCode, Postman, Jupyter
 
 ---
 
-## 🏅 Certifications & Experience
+<h2 align="center">🚀 Featured Projects</h2>
 
-- **Pragati by Infosys** – Leadership, teamwork, project strategy  
-- **Accenture Virtual Experience (Forage)** – Agile, SDLC, Python debugging  
-- **BITS Pilani (Skilligence)** – AI & ML Hands-on Workshop  
-- **Web Dev Intern @ Bharat Intern**  
-- **AI Intern @ Swecha Telangana**  
-- **Website Building @ NxtWave CCBP 4.0**
+🔹 **[Amazon Review Analyzer](https://github.com/Kruthikakkamgari/Amazon-Sentiment-analysis)**  
+AI-driven app using OpenAI and NLP to analyze multilingual Amazon product reviews and display sentiment insights.
 
----
+🔹 **Glamour Heaven – Beauty E-commerce**  
+Smooth, visually appealing e-store with a clean UI and personalized product recommendations.
 
-## 🎓 Education
+🔹 **Netflix Clone Website**  
+React + Node.js project replicating the Netflix platform’s layout and user experience.
 
-**B.Tech in Computer Science & Engineering**  
-📍 *Sridevi Women’s Engineering College, Hyderabad*  
-📅 2022 – 2026 | 📊 **CGPA: 8.56**
+🔹 **Weather Forecast App**  
+Fetches real-time weather data and future forecasts using external APIs.
 
 ---
 
-## 🧠 Soft Skills
+<h2 align="center">🏆 Achievements & Learning</h2>
 
-- ✅ Critical Thinker & Problem Solver  
-- 🎯 Design-First Mindset  
-- 💡 Quick Learner & Adaptable  
-- 🤝 Strong Communicator & Collaborator
+- 🧠 **Infosys Pragati** – Leadership & Team Innovation  
+- 🔧 **Accenture Forage** – Agile, SDLC, Python Debugging  
+- 📊 **AI/ML Workshop – BITS Pilani (Skilligence)**  
+- 💻 **Web Dev Intern – Bharat Intern**  
+- 🤖 **AI Intern – Swecha Telangana**  
+- 🌐 **Website Builder – NxtWave CCBP 4.0**
 
 ---
 
-## 📬 Connect with Me
+<h2 align="center">📘 Education</h2>
+
+**B.Tech – Computer Science & Engineering**  
+*Sridevi Women’s Engineering College*  
+📍 Hyderabad | 📅 2022 – 2026 | 📈 CGPA: **8.56**
+
+---
+
+<h2 align="center">💡 Soft Skills</h2>
+
+- Creative Problem Solver 🔍  
+- Clean UI/UX Thinker 🎨  
+- Analytical & Logical 🧠  
+- Team Player & Communicator 💬  
+- Fast Learner ⚡
+
+---
+
+<h2 align="center">📫 Let's Connect</h2>
 
 - 📧 **Email:** kruthikareddy1105@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/kruthika-akkamgari)  
@@ -76,11 +78,11 @@ Live weather updates with 7-day forecasts, wind speeds, and humidity via real-ti
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kruthikakkamgari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kruthikakkamgari&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kruthikakkamgari&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kruthikakkamgari&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-<p align="center"><i>“Turning ideas into code, and code into change.”</i></p>
+<p align="center"><i>"Code is where creativity meets logic – let's build a better future one line at a time."</i></p>
