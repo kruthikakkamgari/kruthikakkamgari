@@ -1,90 +1,91 @@
-<h1 align="center">✨ Kruthika Akkamgari ✨</h1>
-
-<p align="center">
-  🚀 Aspiring AI Innovator | 💻 Computer Science Engineer | 🎓 B.Tech @ SWEC, Hyderabad <br>
-  👩‍💻 Passionate Developer | 📊 Tech Enthusiast | 🌸 Lover of Soft UI Aesthetics
-</p>
+<!-- HEADER BANNER -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=Hi+%F0%9F%91%8B%2C+I'm+Kruthika+Akkamgari;Aspiring+AI+Developer+%F0%9F%A7%A0;Passionate+about+Tech+%F0%9F%92%BB;Let's+build+something+amazing!" alt="Typing SVG" />
+</div>
 
 ---
 
-## 🔍 About Me
+## 👩‍💻 About Me
 
-Hey there! I'm **Kruthika Akkamgari**, a tech-savvy and ambitious CSE undergrad from **Sridevi Women's Engineering College**. I'm deeply interested in **Artificial Intelligence**, **Web Development**, and **Data Science**. I believe in building solutions that blend intelligence with elegance and functionality with simplicity.
+I'm **Kruthika Akkamgari**, a final-year **Computer Science Engineering** student from **Sridevi Women’s Engineering College**, Hyderabad.
 
-💡 I thrive on challenges, creativity, and continuous learning. Whether it's writing clean code or designing user-centric platforms, I bring passion and precision to every project.
-
----
-
-## 💻 Tech Stack & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+> I’m on a mission to bridge creativity and logic through code.  
+> My passion lies in **AI**, **Web Development**, and **Problem-Solving**, with a flair for **minimalist and elegant UI designs**.
 
 ---
 
-## 🌟 Featured Projects
+## 🧠 Skills & Tech I Use
 
-### 🧠 AI-Powered Amazon Review Analyzer *(2025)*
-> An intelligent web app to analyze customer reviews using **OpenAI** & **NLP**, with multilingual sentiment analysis and word clouds.
-🔗 [Explore Project](https://github.com/Kruthikakkamgari/Amazon-Sentiment-analysis)
-
-### 💄 Glamour Heaven – Your Beauty Paradise *(2024)*
-> E-commerce platform with intuitive navigation, secure payments, and elegant UI in soft/powder tones.
-
-### 🎬 Netflix Clone *(2024)*
-> A dynamic React.js-based web app replicating Netflix’s interface with responsive design and backend services.
-
-### ⛅ Weather App *(2024)*
-> Real-time weather updates using **OpenWeatherMap API**, displaying forecasts, humidity, wind speed, and more.
+| Languages     | Frontend        | Backend          | Tools/Other       |
+|---------------|------------------|------------------|--------------------|
+| Python 🐍      | HTML5, CSS3 💅     | Node.js ⚙️        | Git & GitHub 🔧     |
+| Java ☕        | JavaScript 🖍️      | Express.js ⚡      | SQL 🗃️              |
+| C (Basics) 🧾  | React.js ⚛️       | REST APIs 🌐       | Agile, Figma 🎨     |
 
 ---
 
-## 🎓 Education
+## 🚀 Projects I’m Proud Of
 
-**B.Tech in Computer Science & Engineering**  
-*Sridevi Women’s Engineering College, Hyderabad*  
-📅 2022–2026 | 📈 CGPA: **8.56**
+### 🧠 AI-Powered Amazon Review Analyzer  
+> Built with OpenAI & NLP — fetches Amazon product reviews, translates multiple languages, and provides sentiment insights and word clouds.  
+🔗 [View Repository](https://github.com/Kruthikakkamgari/Amazon-Sentiment-analysis)
+
+### 💄 Glamour Heaven – Beauty Paradise  
+> A stylish, smooth UI e-commerce platform with intuitive design and product recommendations.
+
+### 🎬 Netflix Clone Website  
+> Responsive UI using React.js and Node.js, mimicking Netflix's streaming UI & UX.
+
+### ☁️ Weather Forecast App  
+> Real-time API integration to deliver location-based forecasts, wind data, humidity, and 7-day predictions.
 
 ---
 
-## 🏆 Certifications & Experiences
+## 🏆 Certifications & Internships
 
-- ✔️ **Infosys – Pragati Program** (2024): Leadership, teamwork & project management.
-- ✔️ **Accenture UK Virtual Experience** (2024): SDLC, Agile vs Waterfall, Python debugging.
-- ✔️ **NxtWave CCBP 4.0 – Static Web Design** (2025)
-- ✔️ **AI with ML Workshop** – Skilligence + BITS Pilani (2024)
-- ✔️ **Microsoft AI Basics – TechVritti** (2024)
-- ✔️ **Bharat Intern – Web Development Internship** (2024)
-- ✔️ **Swecha – Summer of AI** (2024): Cultural & language-based AI innovation.
+- 🎓 **Infosys - Pragati**: Project leadership, team building & tech brainstorming.
+- 🧪 **Accenture Virtual Experience (Forage)**: Agile vs Waterfall, SDLC, Python debugging.
+- 💡 **AI & ML Workshop** (BITS-Pilani - Skilligence)
+- 🌐 **Web Dev Internship** – Bharat Intern
+- 🧠 **AI Internship** – Swecha Telangana
+- 💻 **Static Website Building** – NxtWave CCBP 4.0
+
+---
+
+## 📚 Education
+
+**🎓 B.Tech in Computer Science & Engineering**  
+📍 *Sridevi Women’s Engineering College, Hyderabad*  
+📆 2022 – 2026 | 📈 CGPA: **8.56**
 
 ---
 
 ## 🧩 Soft Skills
 
-- 🤝 Team Collaboration & Leadership  
-- 🧠 Analytical Thinking & Problem Solving  
-- 🎨 Creative UI/UX Design  
-- ⚡ Rapid Adaptability & Learning
+- ✔️ Problem Solver  
+- 🎨 Design-Oriented Thinker  
+- 🧠 Analytical and Logical  
+- 💬 Communicator & Team Player  
+- ⚡ Quick Learner & Adaptable
 
 ---
 
-## 📫 Let’s Connect!
+## 📫 Let’s Connect
 
-<p align="center">
-  <a href="mailto:kruthikareddy1105@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/kruthika-akkamgari"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/kruthikakkamgari"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<p align="left">
+  📧 **Email:** kruthikareddy1105@gmail.com<br>
+  💼 <a href="https://www.linkedin.com/in/kruthika-akkamgari">LinkedIn</a><br>
+  🖥️ <a href="https://github.com/kruthikakkamgari">GitHub</a><br>
 </p>
 
 ---
 
-> _“Code with creativity. Build with confidence. Empower with technology.”_ 🌸
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kruthikakkamgari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kruthika's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kruthikakkamgari&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</div>
 
+---
+
+<p align="center"><i>“Turning ideas into code, and code into change.”</i></p>
