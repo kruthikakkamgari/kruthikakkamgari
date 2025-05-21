@@ -5,85 +5,80 @@
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 Kruthika Akkamgari
 
-I'm **Kruthika Akkamgari**, a final-year **Computer Science Engineering** student from **Sridevi Women’s Engineering College**, Hyderabad.
+**Final-Year Computer Science Student** | Sridevi Women’s Engineering College, Hyderabad  
+**AI Enthusiast | Web Developer | UI Minimalist**
 
-> I’m on a mission to bridge creativity and logic through code.  
-> My passion lies in **AI**, **Web Development**, and **Problem-Solving**, with a flair for **minimalist and elegant UI designs**.
-
----
-
-## 🛠️ Tech Stack
-
-| 💻 Languages  | 🌐 Web Design     | 🧠 AI/ML         | 🗃️ Databases     |
-|---------------|------------------|------------------|------------------|
-| Python 🐍      | HTML5, CSS3 🖍️     | AI & ML Basics 🤖 | SQL 🗃️            |
-|               | Bootstrap 🎨      | OpenAI, NLP 💬    |                  |
+> Bridging logic and creativity through clean code and thoughtful design.  
+> Passionate about **Artificial Intelligence**, **Modern Web Interfaces**, and **Real-World Problem Solving**.
 
 ---
 
+## 💼 Tech Stack
 
-## 🚀 Projects I’m Proud Of
-
-### 🧠 AI-Powered Amazon Review Analyzer  
-> Built with OpenAI & NLP — fetches Amazon product reviews, translates multiple languages, and provides sentiment insights and word clouds.  
-🔗 [View Repository](https://github.com/Kruthikakkamgari/Amazon-Sentiment-analysis)
-
-### 💄 Glamour Heaven – Beauty Paradise  
-> A stylish, smooth UI e-commerce platform with intuitive design and product recommendations.
-
-### 🎬 Netflix Clone Website  
-> Responsive UI using React.js and Node.js, mimicking Netflix's streaming UI & UX.
-
-### ☁️ Weather Forecast App  
-> Real-time API integration to deliver location-based forecasts, wind data, humidity, and 7-day predictions.
+| Languages       | Web Development        | AI / ML Tools          | Databases       |
+|-----------------|------------------------|-------------------------|-----------------|
+| Python 🐍        | HTML5, CSS3, Bootstrap | OpenAI, NLP, ML Basics 🤖 | SQL 🗃️           |
 
 ---
 
-## 🏆 Certifications & Internships
+## 🚀 Highlight Projects
 
-- 🎓 **Infosys - Pragati**: Project leadership, team building & tech brainstorming.
-- 🧪 **Accenture Virtual Experience (Forage)**: Agile vs Waterfall, SDLC, Python debugging.
-- 💡 **AI & ML Workshop** (BITS-Pilani - Skilligence)
-- 🌐 **Web Dev Internship** – Bharat Intern
-- 🧠 **AI Internship** – Swecha Telangana
-- 💻 **Static Website Building** – NxtWave CCBP 4.0
+### 🧠 [Amazon Review Analyzer](https://github.com/Kruthikakkamgari/Amazon-Sentiment-analysis)
+AI/NLP-based tool that pulls product reviews from Amazon, translates multilingual feedback, and visualizes sentiments with word clouds.
+
+### 💄 Glamour Heaven
+A sleek, intuitive e-commerce beauty store focusing on minimalist design and smart product suggestions.
+
+### 🎬 Netflix Clone
+Built with React.js + Node.js. Responsive streaming UI closely modeled after Netflix for immersive user experience.
+
+### ☁️ Weather Forecast App
+Live weather updates with 7-day forecasts, wind speeds, and humidity via real-time API integration.
 
 ---
 
-## 📚 Education
+## 🏅 Certifications & Experience
 
-**🎓 B.Tech in Computer Science & Engineering**  
+- **Pragati by Infosys** – Leadership, teamwork, project strategy  
+- **Accenture Virtual Experience (Forage)** – Agile, SDLC, Python debugging  
+- **BITS Pilani (Skilligence)** – AI & ML Hands-on Workshop  
+- **Web Dev Intern @ Bharat Intern**  
+- **AI Intern @ Swecha Telangana**  
+- **Website Building @ NxtWave CCBP 4.0**
+
+---
+
+## 🎓 Education
+
+**B.Tech in Computer Science & Engineering**  
 📍 *Sridevi Women’s Engineering College, Hyderabad*  
-📆 2022 – 2026 | 📈 CGPA: **8.56**
+📅 2022 – 2026 | 📊 **CGPA: 8.56**
 
 ---
 
-## 🧩 Soft Skills
+## 🧠 Soft Skills
 
-- ✔️ Problem Solver  
-- 🎨 Design-Oriented Thinker  
-- 🧠 Analytical and Logical  
-- 💬 Communicator & Team Player  
-- ⚡ Quick Learner & Adaptable
+- ✅ Critical Thinker & Problem Solver  
+- 🎯 Design-First Mindset  
+- 💡 Quick Learner & Adaptable  
+- 🤝 Strong Communicator & Collaborator
 
 ---
 
-## 📫 Let’s Connect
+## 📬 Connect with Me
 
-<p align="left">
-  📧 **Email:** kruthikareddy1105@gmail.com<br>
-  💼 <a href="https://www.linkedin.com/in/kruthika-akkamgari">LinkedIn</a><br>
-  🖥️ <a href="https://github.com/kruthikakkamgari">GitHub</a><br>
-</p>
+- 📧 **Email:** kruthikareddy1105@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kruthika-akkamgari)  
+- 💻 [GitHub](https://github.com/kruthikakkamgari)
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kruthikakkamgari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kruthika's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kruthikakkamgari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kruthikakkamgari&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kruthikakkamgari&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
 
 ---
