@@ -14,15 +14,15 @@ I'm **Kruthika Akkamgari**, a final-year **Computer Science Engineering** studen
 
 ---
 
-## 🧠 Skills & Tech I Use
+## 🛠️ Tech Stack
 
-| Languages     | Frontend        | Backend          | Tools/Other       |
-|---------------|------------------|------------------|--------------------|
-| Python 🐍      | HTML5, CSS3 💅     | Node.js ⚙️        | Git & GitHub 🔧     |
-| Java ☕        | JavaScript 🖍️      | Express.js ⚡      | SQL 🗃️              |
-| C (Basics) 🧾  | React.js ⚛️       | REST APIs 🌐       | Agile, Figma 🎨     |
+| 💻 Languages  | 🌐 Web Design     | 🧠 AI/ML         | 🗃️ Databases     |
+|---------------|------------------|------------------|------------------|
+| Python 🐍      | HTML5, CSS3 🖍️     | AI & ML Basics 🤖 | SQL 🗃️            |
+|               | Bootstrap 🎨      | OpenAI, NLP 💬    |                  |
 
 ---
+
 
 ## 🚀 Projects I’m Proud Of
 
