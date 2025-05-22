@@ -20,7 +20,6 @@ Focused areas: **AI**, **Web Development**, and **Human-Centered Design**.
 - **Languages:** Python 🐍, SQL  
 - **Web:** HTML5, CSS3, Bootstrap 🎨  
 - **AI/ML:** OpenAI, NLP, ML Basics 🤖  
-- **Tools:** Git, VSCode, Postman, Jupyter
 
 ---
 
@@ -55,7 +54,7 @@ Fetches real-time weather data and future forecasts using external APIs.
 
 **B.Tech – Computer Science & Engineering**  
 *Sridevi Women’s Engineering College*  
-📍 Hyderabad | 📅 2022 – 2026 | 📈 CGPA: **8.56**
+📍 Hyderabad | 📅 2022 – 2026 | 📈 CGPA: **8.6**
 
 ---
 
