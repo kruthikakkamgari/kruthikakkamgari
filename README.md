@@ -11,7 +11,7 @@ Hi, I'm **Kruthika Akkamgari**, a final-year Computer Science student from
 🎓 *Sridevi Women’s Engineering College, Hyderabad*.
 
 I'm driven by a passion for blending **code** with **creativity**, crafting digital experiences that are not just functional but elegant.  
-Focused areas: **AI**, **Web Development**, and **Human-Centered Design**.
+Focused areas: **AI**, and **Human-Centered Design**.
 
 ---
 
